@@ -7,7 +7,7 @@
 GET
 ```
 
-* Example
+## Example
 ```Swift
 struct Post: Decodable {
     let id: Int
