@@ -1,1 +1,3 @@
-Lightweight package to simplify API calls in Swift
+# Flux
+
+### Lightweight package to simplify API calls in Swift
