@@ -1,7 +1,11 @@
 # Flux
 
-### Lightweight package to simplify API calls in Swift
+### Lightweight package to simplify API CRUD calls in Swift
 
+### Current methods supported: 
+```
+GET
+```
 
 * Example
 ```Swift
